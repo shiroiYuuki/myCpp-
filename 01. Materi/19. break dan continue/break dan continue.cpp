@@ -39,4 +39,7 @@ continue;
 maka balik lagi ke 
  
 while(a <= 10)
+
+break: Hentikan loop sepenuhnya
+continue: Lewatin sisa kode di loop tapi lanjut ke iterasi berikutnya
 */
