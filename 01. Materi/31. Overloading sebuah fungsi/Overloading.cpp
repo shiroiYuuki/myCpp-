@@ -11,12 +11,12 @@ int luasKotak(int panjang, int lebar){
 
 // overload function
 int luasKotak(int sisi){
-    int luas = sisi * sisi;
+    int luas = sisi * sisi; // jika user cuman memasukkan 1 data maka ini yang di ambil
     return luas;
 }
 
 double luasKotak(double sisi){
-    return sisi * sisi;
+    return sisi * sisi; // jika user memasukkan angka yang ada koma nya maka yang di ambil adalah yang ini :3
 }
 
 int main(){

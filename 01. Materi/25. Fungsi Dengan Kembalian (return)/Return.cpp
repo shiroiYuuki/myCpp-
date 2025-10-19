@@ -34,3 +34,12 @@ int main(){
     system("pause");
     return 0;
 }
+
+
+/*
+return adalah perintah untuk mengembalikan hasil dari sebuah fungsi ke bagian program yang memanggilnya.
+
+Bahasa gampangnya:
+return itu kayak bilang ke program “Oke, aku udah selesai ngerjain tugasnya, ini hasilnya — ambil nih!”
+
+*/
