@@ -34,7 +34,7 @@ void println(double x){
 // ===============================================
 //
 // Pengertian:
-// Prototype fungsi adalah **deklarasi awal** dari sebuah fungsi
+// Prototype fungsi adalah deklarasi awal dari sebuah fungsi
 // yang memberi tahu compiler:
 // - Nama fungsi
 // - Tipe data yang dikembalikan (return type)
