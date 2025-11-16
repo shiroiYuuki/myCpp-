@@ -42,4 +42,5 @@ Hasilnya bukan angka int, tapi alamat (pointer).
 Reference (&) itu buat kasih nama lain ke variabel,
 bukan buat nyimpen alamat kayak pointer.
 
+bahasa mudahnya dari reference: Maka b bukan salinan dari a, tapi nama lain dari a.
 */
