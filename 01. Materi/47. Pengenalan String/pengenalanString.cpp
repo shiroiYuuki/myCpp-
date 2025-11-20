@@ -10,6 +10,7 @@ void menampilkanTeks(string teks){
 int main(){
     // char kata[5] = {'F', 'U', 'B', 'U', 'K', 'I'}
     // array char tidak bisa kita tambah, fiks karena array.
+
     string vtuber("Fubuki");
     cout << "data saat ini adalah "<< vtuber << endl;
 
