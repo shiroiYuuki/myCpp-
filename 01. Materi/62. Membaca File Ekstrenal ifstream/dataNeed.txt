@@ -1,0 +1,11 @@
+ini adalah data yang di luar dari code.
+dan ini adalah baris kedua dari data yang di luar
+
+data
+
+No
+1. Fox
+2. Cat
+3. Pinguin
+4. Hammer
+5. Nuke

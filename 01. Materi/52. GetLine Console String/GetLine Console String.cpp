@@ -4,7 +4,7 @@
 int main(){
     std::string kalimatInput;
 
-    // getline(cin, variable)
+    // getline(asal, diletakkan di)
     std::cout << "=== Selamat datang di Program menghitung jumlah kalimat ===" << std::endl;
     std::cout << "masukkan kalimat yang anda mau: ";
     std::getline(std::cin,kalimatInput); // memasukkan input dari user ke dalam variable, kelebihannya bisa pakai spasi
